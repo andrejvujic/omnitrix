@@ -1,0 +1,19 @@
+* {
+  font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0px auto;
+  background-color: #222;
+  text-align: center;
+}
+
+.main_div {
+  margin: 0;
+  background: yellow;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
