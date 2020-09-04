@@ -4,16 +4,17 @@
 
 body {
   margin: 0px auto;
-  background-color: #222;
+  background-color: #000;
   text-align: center;
+  height: 100%;
+  overflow: hidden;
 }
 
-.main_div {
-  margin: 0;
-  background: yellow;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
+@keyframes blink {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0.5;
+  }
 }
