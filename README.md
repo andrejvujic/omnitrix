@@ -23,7 +23,8 @@ Links:
 - TheHawkDown - https://www.deviantart.com/thehawkdown
 - Omnitrix on Galaxy Store - https://galaxy.store/benten
 - Omnitrix on Youtube - https://youtu.be/5cOPupZvOAw
-- Update teaser on Youtube - https://youtu.be/LNyiBof50vI
+- Update teaser on Youtube - https://youtu.be/LNyiBof50vI <br/>
+
     <a href="https://galaxy.store/benten"
       ><img
         width="250"
