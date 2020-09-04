@@ -5,21 +5,25 @@ Enjoy 20 authentic aliens and sounds from the famous cartoon.
 Features:
 - Authentic aliens
 - Authentic sounds
+- Recharge mode
+- Transformation animation
 
 How to use:
+- Click on screen: unlocks Omnitrix (only on intial launch)
 - Rotate bezel clockwise: shows next alien
 - Rotate bezel counter-clockwise: shows previous alien
 - Click on the alien: plays transformation sound
+- Click on white Omnitrix: activates recharge mode
 
 Credits:
 - TheHawkDown (creator of the Omnitrix artwork used in the app)
-- Cartoon Network Studios and Man of Action Studios (publishers, creators and owners of the cartoon series)
+- Cartoon Network Studios and Man of Action Studios (owners and creators of the famous cartoon show)
 
 Links:
 - TheHawkDown - https://www.deviantart.com/thehawkdown
 - Omnitrix on Galaxy Store - https://galaxy.store/benten
 - Omnitrix on Youtube - https://youtu.be/5cOPupZvOAw
-
+- Update teaser on Youtube - https://youtu.be/LNyiBof50vI
     <a href="https://galaxy.store/benten"
       ><img
         width="250"
